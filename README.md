@@ -15,7 +15,7 @@ PowerBi Desktop
     * Bottomwear (Bottom, Dupatta, Kurta Set, Ethnic Dress) makes up 14.1% of the sales. <br />
     * Other categories (Saree, Dupatta) account for 0.58% of the sales.<br />
 * **Promotion Impact:** 60,000 promotions were used, with 61,000 promotion IDs associated. This indicates that some promotions might have been used multiple times.<br />
-* **Cancelled Products:** The number of canceled products has been increasing from March to June. <br />
-![image](https://github.com/user-attachments/assets/1a9e0293-4d6f-4fa8-92a3-089e6c5422e7)
-![image](https://github.com/user-attachments/assets/b94f99e4-4ede-4a3a-9fd8-e6235f367d52)
+* **Cancelled Products:** The number of canceled products has been increasing from March to June. <br /><br />
+![image](https://github.com/user-attachments/assets/1a9e0293-4d6f-4fa8-92a3-089e6c5422e7) <br />
+![image](https://github.com/user-attachments/assets/b94f99e4-4ede-4a3a-9fd8-e6235f367d52) <br />
 ![image](https://github.com/user-attachments/assets/31cf7cbd-491a-480c-a935-ababcab6487e)
