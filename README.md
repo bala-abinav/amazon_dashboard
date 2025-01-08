@@ -19,3 +19,10 @@ PowerBi Desktop
 ![image](https://github.com/user-attachments/assets/1a9e0293-4d6f-4fa8-92a3-089e6c5422e7) <br />
 ![image](https://github.com/user-attachments/assets/39ba3fae-1d40-442f-a8ae-03c3477efbce) <br />
 ![image](https://github.com/user-attachments/assets/221b0897-7eb1-48d0-bfd8-6f40575eb96a)
+# TEAM MEMBERS
+[VIJAY REDDY MALLIDI](https://www.linkedin.com/in/vijay-reddy-mallidi/) <br />
+[AKHILA POLU](https://www.linkedin.com/in/akhila-reddy-polu-7b5b33249/) <br />
+[BALA ABINAV](https://www.linkedin.com/in/bala-abinav-343377266/) <br />
+[ADHARSH PATEL](https://www.linkedin.com/in/aadarsh-patel-a7b385238/) <br />
+[PHANINDRA PARVATHI](https://www.linkedin.com/in/phanindra-parvathi/) <br />
+[JIGYASA KHANNA](https://www.linkedin.com/in/jigyasa-khanna-69044320a/) <br />
