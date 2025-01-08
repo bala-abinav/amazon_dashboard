@@ -17,5 +17,5 @@ PowerBi Desktop
 * **Promotion Impact:** 60,000 promotions were used, with 61,000 promotion IDs associated. This indicates that some promotions might have been used multiple times.<br />
 * **Cancelled Products:** The number of canceled products has been increasing from March to June. <br /><br />
 ![image](https://github.com/user-attachments/assets/1a9e0293-4d6f-4fa8-92a3-089e6c5422e7) <br />
-![image](https://github.com/user-attachments/assets/b94f99e4-4ede-4a3a-9fd8-e6235f367d52) <br />
-![image](https://github.com/user-attachments/assets/31cf7cbd-491a-480c-a935-ababcab6487e)
+![image](https://github.com/user-attachments/assets/39ba3fae-1d40-442f-a8ae-03c3477efbce) <br />
+![image](https://github.com/user-attachments/assets/221b0897-7eb1-48d0-bfd8-6f40575eb96a)
